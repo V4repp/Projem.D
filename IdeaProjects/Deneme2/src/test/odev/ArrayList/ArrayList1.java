@@ -36,7 +36,7 @@ public class ArrayList1 {
         ArrayList<String> kelimeler = new ArrayList<>();
         kelimeler.addAll(Arrays.asList("Cydeo", "Java", "Java", "Muhammet", "Ali", "Fatma", "Ersin", "Ersin", "Ayşe", "Elif", "Elif", "Kubilay"));
 
-        for
+
 
 
     }
