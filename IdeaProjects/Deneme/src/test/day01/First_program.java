@@ -7,9 +7,7 @@ public class First_program {
         System.out.println("Merhaba Dünya");
         System.out.println("-----------------------------------------------------");
 
-
-
-
+        System.out.println("Artık Git öğreniyoruz...");
 
     }
 }
