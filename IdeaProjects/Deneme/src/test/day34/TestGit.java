@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("Merhaba");
         System.out.println("Deneme 1");
         System.out.println("değişiklik sonrası, görüntü bu şekilde.");
+        System.out.println("Yemek sonrası comid.");
     }
 }
