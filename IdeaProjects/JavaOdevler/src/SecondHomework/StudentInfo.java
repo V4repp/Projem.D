@@ -30,8 +30,20 @@ public class StudentInfo {/* Create a class named StudentInfo and write a progra
 				Grade level is Undergraduate
 				Josh Steven's GPA is 2.8  */
     public static void main(String[] args) {
-        String studentName = "veli";
+        String studentName = "Veli Demir";
         int age = 16 ;
+        String gender = "Male";
+        double gpa = 3.4;
+        String schoolName = "MIT";
+        String grandLevel = "Undergraduate";
+        String studentId = "B235";
+
+        System.out.println("The student's name is "+studentName+".");
+        System.out.println ("Gender is "+gender+".");
+        System.out.println("Age is "+age+" years old.");
+        System.out.println("The school's name is "+schoolName+".");
+        System.out.println("Grade level is "+grandLevel+".");
+        System.out.println(studentName+"'"+"GPA is "+gpa+".");
 
     }
 }
